@@ -1,0 +1,12 @@
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\C-FinalProject.exe.config
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\obj\Debug\C-FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\C-FinalProject.exe
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\C-FinalProject.pdb
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\obj\Debug\C-FinalProject.exe
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\obj\Debug\C-FinalProject.pdb
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\obj\Debug\C_FinalProject.Migrations.InitialCreate.resources
+C:\Users\Jacqueline\Documents\Visual Studio 2015\Projects\C#Drills\C-FinalProject\C-FinalProject\obj\Debug\C-FinalProject.csproj.GenerateResource.Cache
